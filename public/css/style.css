@@ -1,0 +1,9 @@
+.mainIcon {
+    flex-grow:1;
+    margin: 2px;
+    object-fit: cover;
+    height: 60px;
+}
+.mainHeader {
+    max-width: 10px;
+}
