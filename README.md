@@ -4,14 +4,14 @@
 - A simplified journal with one goal - to keep you focused.
 
 # How It's Made:
-**Tech used:** HTML, CSS, JavaScript, NodeJS, ExpressJS, Bootstrap, MongoDB, Mongoose, Passport
+**Tech used:** 
+- HTML, CSS, JavaScript 
+- NodeJS, ExpressJS
+- Bootstrap, Cloudinary
+- MongoDB, Mongoose 
+- PassportJS
 
 ---
-# Optimizations
-- Update to React 
-- Add Pomodoro Timer
-- Add todos section
-- Add Pomodoro gamification
 
 # Install
 
@@ -33,3 +33,11 @@
 # Run
 
 `npm start`
+
+---
+
+# Optimizations
+- Add Pomodoro Timer
+- Update to React + Tailwind
+- Add todos section
+- Add Pomodoro gamification
