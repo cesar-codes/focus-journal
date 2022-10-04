@@ -13,6 +13,13 @@
 
 ---
 
+# Why I built this
+This is a personal tool to improve focus. The goal here is an alternative to a pen-and-paper journal and todo list.
+I want a place where I can journal for 25 minutes - at home and on the go. 
+And I want to share it with the world. 
+
+---
+
 # Install
 
 `npm install`
