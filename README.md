@@ -20,6 +20,10 @@ And I want to share it with the world.
 
 ---
 
+# Who is this for?
+Anyone with a serious interest in journaling.
+Anyone who has had trouble with focus or consistency with journaling in the past.
+
 # Install
 
 `npm install`
